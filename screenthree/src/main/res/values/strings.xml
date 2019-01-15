@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Screen Three</string>
+    <string name="hello_third_fragment">Hello third fragment</string>
+
+</resources>

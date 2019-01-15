@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Animated icons not working pre v24, alias for now and resource qualify -->
+    <drawable name="asld_nav_agenda">@drawable/ic_nav_agenda</drawable>
+    <drawable name="asld_nav_info">@drawable/ic_nav_info</drawable>
+    <drawable name="asld_nav_schedule">@drawable/ic_nav_schedule</drawable>
+</resources>
